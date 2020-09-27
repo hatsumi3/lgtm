@@ -8,5 +8,5 @@ def cli(keyword, message):
     click.echo('lgtm') # check active
 
 
-def lgtm():
+def lgtm(keyword, message):
     pass
